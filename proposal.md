@@ -70,7 +70,9 @@ To look at the pockemons you have, enter 4;
 
 5. Types List: Break your solution idea down into units that you think can be implemented with a single class.
 
-
+* We need a class that stores data about the Pokemon encounter, i.e. the Pokemon we are encountering, the catch rate, and the dialogue.
+* We need a Data Type that stores relevant Pokemon information.
+* We need a Data Type (specialized HashTable?) that stores all of the Pokemon that can be encountered. This data type can be reused to log all of the Pokemon that the user has encountered.
 
 Name each interface or class and briefly describe its function or purpose.
 
