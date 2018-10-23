@@ -48,7 +48,20 @@ Describe at a high level a program that could solve that problem.
 
 4. User Interface: Describe a user interface for your program.  Use text menus or a simple graphic user interface.
 
+Welcome to the world of Pockemon
+Press any key to encounter.
 
+You encounter a pockemon **Name**
+
+To check the property of **Name**, enter 0;
+
+To catch it, enter 1;
+
+To check what pockemon balls you have, enter 2;
+
+to check the probability of catching it, enter 3; 
+ 
+To look at the pockemons you have, enter 4;
 
 5. Types List: Break your solution idea down into units that you think can be implemented with a single class.
 
