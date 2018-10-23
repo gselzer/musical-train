@@ -49,7 +49,8 @@ Pokemon appearance, type lookup, action prompt, ball choice prompt.
 
 3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data.
 
-
+We need a catch, run, or ball selection, represented by a button. Moreover, we need a list of pokemon to draw
+pokemon from. 
 
 4. User Interface: Describe a user interface for your program.  Use text menus or a simple graphic user interface.
 
